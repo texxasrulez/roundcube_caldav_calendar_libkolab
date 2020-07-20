@@ -31,7 +31,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "roundcube/plugin-installer": ">=0.1.3",
+        "roundcube/plugin-installer": "*",
         "pear/http_request2": "*",
         "caxy/php-htmldiff": "*"
     }
