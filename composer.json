@@ -1,5 +1,5 @@
 {
-    "name": "texxasrulez/libkolab",
+    "name": "texxasrulez/caldav_libkolab",
     "type": "roundcube-plugin",
     "description": "Plugin to setup a basic environment for the interaction with a Kolab libraries.",
     "homepage": "https://github.com/texxasrulez/roundcube_caldav_calendar_libkolab",
